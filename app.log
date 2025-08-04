@@ -1,0 +1,120 @@
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:43:38.668Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:43:38.672Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:44:49.741Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:44:49.747Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:45:29.478Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:45:29.482Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:46:43.986Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:46:43.993Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:47:25.720Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:47:25.724Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:49:02.558Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:49:02.562Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:54:41.077Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:54:41.081Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:56:21.550Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:56:21.554Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:56:48.247Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:56:48.253Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:57:06.463Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:57:06.466Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:58:02.218Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:58:02.221Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T09:58:30.109Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T09:58:30.114Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:00:06.162Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:00:06.168Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:01:57.731Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:01:57.738Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:03:05.237Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:03:05.242Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:08:08.587Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:08:08.591Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:09:41.842Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:09:41.849Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:13:19.818Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:13:19.840Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:14:06.353Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:14:06.357Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:15:12.506Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:15:12.510Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:16:01.865Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:16:01.869Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:17:14.780Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:17:14.783Z"}
+{"email":"samuel@samuel.com","level":"info","message":"User created successfully","timestamp":"2025-08-04T10:17:19.680Z","userId":"689088af8a340d20224491fd"}
+{"email":"samuel@samuel.com","level":"warn","message":"Attempted to create user with existing email","timestamp":"2025-08-04T10:17:32.954Z"}
+{"email":"samuel@samuel.com","error":"Email already in use","level":"error","message":"Error creating user","timestamp":"2025-08-04T10:17:32.987Z"}
+{"count":1,"level":"info","message":"Fetched all users","timestamp":"2025-08-04T10:17:39.357Z"}
+{"count":1,"level":"info","message":"Fetched all users","timestamp":"2025-08-04T10:18:04.197Z"}
+{"level":"info","message":"User updated successfully","timestamp":"2025-08-04T10:18:18.244Z","updatedFields":["name","email","password","age"],"userId":"689088af8a340d20224491fd"}
+{"level":"info","message":"Fetched user data","timestamp":"2025-08-04T10:18:21.955Z","userId":"689088af8a340d20224491fd"}
+{"level":"info","message":"Fetched user data","timestamp":"2025-08-04T10:18:25.214Z","userId":"689088af8a340d20224491fd"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:19:39.492Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:19:39.497Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:20:03.704Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:20:03.712Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:20:41.523Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:20:41.527Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:22:00.988Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:22:00.993Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:22:21.165Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:22:21.171Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:23:59.475Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:23:59.479Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:25:56.023Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:25:56.035Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04T10:27:06.427Z"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04T10:27:06.432Z"}
+{"level":"info","message":"Server is running on port 3001 in dev mode","timestamp":"2025-08-04 11:28:31"}
+{"level":"info","message":"Database has connected successfully","timestamp":"2025-08-04 11:28:31"}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mServer is running on port 3001 in dev mode\u001b[39m",
+  "timestamp": "2025-08-04 11:29:24"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mDatabase has connected successfully\u001b[39m",
+  "timestamp": "2025-08-04 11:29:24"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mServer is running on port 3001 in dev mode\u001b[39m",
+  "timestamp": "2025-08-04 11:34:32"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mDatabase has connected successfully\u001b[39m",
+  "timestamp": "2025-08-04 11:34:32"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mServer is running on port 3001 in dev mode\u001b[39m",
+  "timestamp": "2025-08-04 11:36:10"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mDatabase has connected successfully\u001b[39m",
+  "timestamp": "2025-08-04 11:36:10"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mServer is running on port 3001 in dev mode\u001b[39m",
+  "timestamp": "2025-08-04 11:38:07"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mDatabase has connected successfully\u001b[39m",
+  "timestamp": "2025-08-04 11:38:07"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mServer is running on port 3001 in dev mode\u001b[39m",
+  "timestamp": "2025-08-04 11:39:39"
+}
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "\u001b[32mDatabase has connected successfully\u001b[39m",
+  "timestamp": "2025-08-04 11:39:39"
+}
